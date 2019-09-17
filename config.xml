@@ -2,22 +2,22 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
-        versionCode = "37100"
-        android-versionCode="37100"
-        version   = "3.7.1">
-    <name>Moodle</name>
+        id        = "org.gsdacs.gsdacslms"
+        versionCode = "2020"
+        android-versionCode="2020"
+        version   = "2.5">
+    <name>GSDACS LMS</name>
 
     <description>
-        Moodle official app
+        GSDAC official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+    <author href="http://gsdacs.org" email="walkerdennie@gsdacs.org">
+        GSDACS IT Team
     </author>
 
     <edit-config target="CFBundleShortVersionString" file="*-Info.plist" mode="merge">
-        <string>3.7.1</string>
+        <string>2.5</string>
     </edit-config>
 
     <gap:platform name="ios" />
