@@ -4,7 +4,7 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "org.gsdacs.gsdacslms"
         versionCode = "2020"
-        android-versionCode="38000"
+        android-versionCode="42000"
         version   = "3.0">
     <name>GSDACS LMS APP</name>
 
